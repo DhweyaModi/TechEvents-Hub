@@ -1,0 +1,18 @@
+{
+    "java.project.sourcePaths": [
+        "src/main",
+        "src/test"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "java.checkstyle.configuration": "${workspaceFolder}/checkstyle.xml",
+    "java.checkstyle.version": "10.23.0",
+    
+    "java.test.config": {
+        "workingDirectory": "${workspaceFolder}",
+        "testKind": "junit"
+    },
+    "java.test.junit5.useClasspath": true
+}

@@ -1,0 +1,38 @@
+{
+    "appEvents": {"listofevents": [
+        {
+            "organizer": "",
+            "name": "WorkShop1",
+            "time": "",
+            "day": 1,
+            "url": ""
+        },
+        {
+            "organizer": "",
+            "name": "WorkShop3",
+            "time": "",
+            "day": 3,
+            "url": ""
+        }
+    ]},
+    "appUsers": {"users": [{
+        "name": "Dhweya",
+        "category": "Student",
+        "events": {"listofevents": [
+            {
+                "organizer": "",
+                "name": "WorkShop1",
+                "time": "",
+                "day": 1,
+                "url": ""
+            },
+            {
+                "organizer": "",
+                "name": "WorkShop3",
+                "time": "",
+                "day": 3,
+                "url": ""
+            }
+        ]}
+    }]}
+}

@@ -1,0 +1,39 @@
+{
+    "appUsers": {
+        "users": [
+            {
+                "name": "Alice",
+                "category": "Developer",
+                "events": {
+                    "listofevents": [
+                        {
+                            "name": "Tech Talk",
+                            "organizer": "Organizer1",
+                            "day": 1,
+                            "time": "10:00 AM",
+                            "url": "http://example.com"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "appEvents": {
+        "listofevents": [
+            {
+                "name": "Tech Talk",
+                "organizer": "Organizer1",
+                "day": 1,
+                "time": "10:00 AM",
+                "url": "http://example.com"
+            },
+            {
+                "name": "Hackathon",
+                "organizer": "Organizer2",
+                "day": 2,
+                "time": "1:00 PM",
+                "url": "http://example2.com"
+            }
+        ]
+    }
+}

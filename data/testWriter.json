@@ -1,0 +1,36 @@
+{
+    "appEvents": {"listofevents": [
+        {
+            "organizer": "UBC Tech Club",
+            "name": "Tech Talk 2025",
+            "time": "14:00",
+            "day": 5,
+            "url": "http://techtalk2025.com"
+        },
+        {
+            "organizer": "AI Society",
+            "name": "AI Workshop",
+            "time": "09:00",
+            "day": 10,
+            "url": "http://aiworkshop.com"
+        }
+    ]},
+    "appUsers": {"users": [
+        {
+            "name": "Alice",
+            "category": "Student",
+            "events": {"listofevents": [{
+                "organizer": "UBC Tech Club",
+                "name": "Tech Talk 2025",
+                "time": "14:00",
+                "day": 5,
+                "url": "http://techtalk2025.com"
+            }]}
+        },
+        {
+            "name": "Bob",
+            "category": "Student",
+            "events": {"listofevents": []}
+        }
+    ]}
+}
